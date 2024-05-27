@@ -14,4 +14,4 @@ Long story short, this is a list of all MIME types (and file extensions) with Fo
 ### Example
 `{"ext":"mp3","mime_type":"audio/mpeg","icon":"fas fa-file-audio"}`
 
-[Cheatsheet](https://ali-aydin.github.io/mime-types/cheatsheet.html)
+[Cheatsheet](https://ali-aydin.github.io/mime-types-font-awesome/)
